@@ -1,12 +1,10 @@
 ## Olá, me chamo Lucas e me sinto ótimo😁!
-<div class="tenor-gif-embed" data-postid="21281004" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-  <a href="https://tenor.com/view/cat-blind-flashbang-light-mode-gif-21281004">Cat Blind Flashbang Light Mode GIF</a>
-  from <a href="https://tenor.com/search/cat+blind+flashbang+light+mode-gifs">Cat Blind Flashbang Light Mode GIFs</a></div> 
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-# - Estudando de Egenharia da Computação - MULTIVIX Serra/n
-# - Empreendedor/n
-# - Apaixonado por ideias que mudam a vida das pessoas/m
-### 🚀 Tecnologias que uso:
+<div class="tenor-gif-embed" data-postid="21281004" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-blind-flashbang-light-mode-gif-21281004">Cat Blind Flashbang Light Mode GIF</a>from <a href="https://tenor.com/search/cat+blind+flashbang+light+mode-gifs">Cat Blind Flashbang Light Mode GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+-Estudando de Egenharia da Computação - MULTIVIX Serra
+-Empreendedor
+-Apaixonado por ideias que mudam a vida das pessoas
+
+🚀 Tecnologias que uso:
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/> 
 <img src"https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"/>
 <div>
