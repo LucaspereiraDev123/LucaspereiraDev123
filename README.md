@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Computer Engineering 10/10 - MULTIVIX.<br>-Entrepreneur.<br>-Beginner programmer.</p>
+<p align="left">Computer Engineer.<br>-Entrepreneur.<br>-Beginner programmer.</p>
 
 ###
 
