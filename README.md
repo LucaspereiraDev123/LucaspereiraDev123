@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou Lucas Rocha </h1>
 
 <p align="left">
-  Engenheiro de Computação · Empreendedor · Programador iniciante
+  Engenheiro de Computação · Empreendedor · Programador focado em PHP/Laravel
 </p>
 
 <p align="left">
