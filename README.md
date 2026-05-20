@@ -1,8 +1,12 @@
-<h2 align="left">Hi, my name is Lucas and I feel great😁!</h2>
+<h1 align="left">Olá, eu sou Lucas Rocha 👋</h1>
 
-###
+<p align="left">
+  Computer Engineer · Entrepreneur · Beginner Programmer
+</p>
 
-<p align="left">Computer Engineer.<br>-Entrepreneur.<br>-Beginner programmer.</p>
+<p align="left">
+  Apaixonado por transformar ideias em soluções reais. Atualmente desenvolvendo habilidades em desenvolvimento web, back-end e boas práticas de engenharia de software.
+</p>
 
 ###
 
