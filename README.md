@@ -1,7 +1,7 @@
-<h1 align="left">Olá, eu sou Lucas Rocha 👋</h1>
+<h1 align="left">Olá, eu sou Lucas Rocha </h1>
 
 <p align="left">
-  Computer Engineer · Entrepreneur · Beginner Programmer
+  Engenheiro de Computação · Empreendedor · Programador iniciante
 </p>
 
 <p align="left">
