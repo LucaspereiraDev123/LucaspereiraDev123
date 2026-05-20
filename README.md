@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://jsdelivr.net" height="40" alt="laravel logo"  />
+  <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-mark.svg" alt="Laravel" width="40" height="40">
 </div>
 
 
